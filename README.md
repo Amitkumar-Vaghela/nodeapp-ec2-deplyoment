@@ -81,4 +81,5 @@ Status should be:  online
 
 ## Step 9: Access Application
 
-Open in browser: http://http://3.110.84.57:3000
+Open in browser: http://http://3.110.84.57:3000/
+
